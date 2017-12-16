@@ -1,0 +1,10 @@
+digraph g {
+rankdir=LR;
+node [shape = record, height = 0.1];
+nodo0[label = "<f0> |<f1> Jose |<f2> "];
+nodo0:f0 -> nodo0:f2;
+nodo0:f2 -> nodo0:f0;
+Primero -> nodo0:f1;
+Último -> nodo0:f1;
+label = "Lista de Usuarios Doblemente Enlazada"
+}

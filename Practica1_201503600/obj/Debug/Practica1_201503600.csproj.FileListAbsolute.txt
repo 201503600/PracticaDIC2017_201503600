@@ -1,0 +1,28 @@
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\bin\Debug\Practica1_201503600.exe.config
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\bin\Debug\Practica1_201503600.exe
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\bin\Debug\Practica1_201503600.pdb
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.Properties.Resources.resources
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.csproj.GenerateResource.Cache
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.csproj.CoreCompileInputs.cache
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.exe
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.pdb
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.csprojResolveAssemblyReference.cache
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.Vistas.Form1.resources
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.Vistas.VentanaPrincipal.resources
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.Vistas.Registro.resources
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\bin\Debug\Practica1_201503600.exe.config
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\bin\Debug\Practica1_201503600.exe
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\bin\Debug\Practica1_201503600.pdb
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.csprojResolveAssemblyReference.cache
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.Vistas.Form1.resources
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.Properties.Resources.resources
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.Vistas.VentanaPrincipal.resources
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.Vistas.Registro.resources
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.csproj.GenerateResource.Cache
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.csproj.CoreCompileInputs.cache
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.exe
+C:\Users\ed_ci\Documents\VD2017\EDD\EDD_Practica1\Practica1_201503600\obj\Debug\Practica1_201503600.pdb

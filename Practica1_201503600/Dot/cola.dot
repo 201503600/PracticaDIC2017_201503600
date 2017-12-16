@@ -1,0 +1,11 @@
+digraph g{
+rankdir=LR
+node [shape = record, width = 0.1, height = 0.1];
+struct0 [label = "{<f0> Suma\n6 |<f1> }"];
+struct1 [label = "{<f0> Suma\n7 |<f1> }"];
+head -> struct0:f0;
+struct0:f1 -> struct1:f0;
+struct1:f1 -> null;
+bottom -> struct1:f0;
+label = "Cola"
+}

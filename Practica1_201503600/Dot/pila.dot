@@ -1,0 +1,7 @@
+digraph g{
+rankdir=TB;
+node [shape = record, width = 0.1, height = 0.1];
+struct [label = "{<f0> Suma\n6 | Suma\n7}"];
+
+label = "Pila"
+}

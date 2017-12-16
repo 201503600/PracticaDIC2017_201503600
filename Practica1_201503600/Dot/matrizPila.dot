@@ -1,0 +1,5 @@
+digraph g{
+node [shape = record, width = 0.1, height = 0.1];
+estructura [label = "{ {0 | 0 | 0 | 0 | 0 } | {5 | 0 | 0 | 1 | 0 } }"]
+label = "Matriz"
+}
